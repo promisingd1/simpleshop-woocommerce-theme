@@ -1,0 +1,1 @@
+# simpleshop-woocommerce-theme
